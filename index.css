@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&family=Noto+Serif&family=Varela+Round&display=swap');
+
+body{
+    margin: 20px 20px;
+    font-family: 'Varela Round', sans-serif;
+    font-family: 'Amiri', serif;
+}
+.container{
+    margin: 15px 15px;
+}
+section{
+    margin-top:20px ;
+}
+img{
+    margin: 15px auto;
+    width: 360px;
+}
